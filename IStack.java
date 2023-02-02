@@ -17,4 +17,5 @@ public interface IStack<T> {
 
 
     int size();
+    
 }
